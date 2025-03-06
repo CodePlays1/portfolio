@@ -19,3 +19,4 @@ This is an easy-to-customize personal portfolio template that was created with H
 - CSS3
 - JavaScript
 
+You can see it from here : https://codeplays1.github.io/portfolio/
